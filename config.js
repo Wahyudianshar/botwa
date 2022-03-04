@@ -1,7 +1,7 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://bit.ly/30WRP0K']
-global.channelYT = ['https://bit.ly/30WRP0K'] 
-global.owner = ['16146837067']// Put your number here
+global.linkGC = ['']
+global.channelYT = [''] 
+global.owner = ['6285240646336']// Put your number here
 global.mods = ['62895320853387', '380944480179'] // Want some help?
 global.partner = ['16146837067', '6281111111111', '0'] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -34,8 +34,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'arybotz'
-global.author = 'ary'
+global.packname = '6285240646336'
+global.author = 'Wahyu Anshar'
 
 global.multiplier = 69 // The higher, The harder levelup
 
